@@ -3,8 +3,6 @@
 ## Welcome to my GitHub!
 ### My name is Meera Kurup
 
-====================================================================================================================================
-
 My name is Meera Kurup and I am a Computer Science and Entrepreneurship student at Brown University. In this GitHub, you will find several repositories that reflect my interests and coding skills. Feel free to checkout my personal website for more information [here](https://meera-kurup.github.io/meera-kurup-website/).
 
 * 😄 Pronouns: she/her
